@@ -1,6 +1,6 @@
 # Xianghui LIU
 **R&D Manager | Senior Engineer**  
-Nanjing, China
+Nanjing / Shanghai / Hangzhou, China
 
 LinkedIn: [https://www.linkedin.com/in/largepuma/](https://www.linkedin.com/in/largepuma/).
 Email: [xavier-liu@outlook.com](mailto:xavier-liu@outlook.com)  
