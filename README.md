@@ -35,7 +35,25 @@ Energetic R&D Manager and Senior Engineer with 10+ years' experience in web and 
 - Developed Android and iOS apps using Cordova.
 - Developed a management system using Angular.js framework.
 
-...
+**Chief Software Engineer**  
+Nanjing Fujitsu Nanda Software Company | April 2014 - May 2016
+- Developed cross-platform apps on Windows, iOS, and Android using Cordova framework.
+- Developed Cordova plug-ins such as dictionary TTS.
+
+**Senior Software Engineer**  
+Jiangsu HopeRun Software Co. Ltd | September 2013 - March 2014
+- Customized Android from apps to kernel.
+
+**Senior Software Engineer**  
+AcherMirnd Technology (Nanjing) Co. Ltd | March 2010 - August 2013
+- Analyzed requirements and designed solutions.
+- Customized Webkit render engine and added extensions to enable JavaScript to call system APIs directly.
+- Developed a chat app on Android using the XMPP protocol.
+
+**Network Engineer**  
+Ningbo FOTILE Kitchen Appliance Co. Ltd | August 2008 - February 2010
+- Maintained the normal operation of the enterprise network.
+- Managed corporate IT assets.
 
 ## Education
 **Lanzhou University**  
