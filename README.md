@@ -45,11 +45,12 @@ Energetic R&D Manager and Senior Engineer with 10+ years' experience in web and 
 **Online Courses**  
 *Coursera & EdX*
 - Machine Learning
+- Reinforcement Learning 
 - Control of Mobile Robots
 - Image and Video Processing
 - Entrepreneurship
 
 ## Language Skills
-- **English**: Fluent (CET-6)
+- **English**: Fluent
 - **Chinese**: Native
 - **Japanese**: Intermediate (JLPT N3)
